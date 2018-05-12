@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4050
 description: Roosevelt as a man of letters -- Fifty years of Hawthorne -- A pilgrim
   in Concord -- A wordlet about Whitman.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24435#Four-Americans--Roosevelt-Hawthorne-Emerson-Whitman
 gutenberg_issued: '2008-01-26'
 gutenberg_type: Text
 identifiers:
