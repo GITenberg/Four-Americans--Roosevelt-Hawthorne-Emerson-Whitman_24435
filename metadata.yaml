@@ -1,0 +1,33 @@
+_repo: Four-Americans--Roosevelt-Hawthorne-Emerson-Whitman_24435
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beers, Henry A. (Henry Augustin)
+    alias: Beers, Henry Augustin
+    birthdate: 1847
+    deathdate: 1926
+    gutenberg_agent_id: '4050'
+    url: http://www.gutenberg.org/2009/agents/4050
+description: Roosevelt as a man of letters -- Fifty years of Hawthorne -- A pilgrim
+  in Concord -- A wordlet about Whitman.
+gutenberg_issued: '2008-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24435'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Roosevelt, Theodore, 1858-1919'
+- !lcc 'PS'
+- !lcsh 'Hawthorne, Nathaniel, 1804-1864'
+- !lcsh 'Whitman, Walt, 1819-1892'
+- !lcsh 'Concord School of Philosophy'
+tableOfContents: Roosevelt as a man of letters -- Fifty years of Hawthorne -- A pilgrim
+  in Concord -- A wordlet about Whitman.
+title: 'Four Americans: Roosevelt, Hawthorne, Emerson, Whitman'
+url: http://www.gutenberg.org/ebooks/24435
